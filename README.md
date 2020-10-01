@@ -75,7 +75,7 @@ Hi, i'm an italian guy with an interest in programming & physics 🚀. I'm curre
 
 <!-- profile links -->
 [github_profile]: https://github.com/m-lamonaca "Github Profile"
-[linkedin]: https://www.linkedin.com/in/marcello-lamonaca-17a863188 "Linkedin Profile"
+[linkedin]: linkedin.com/in/marcello-lamonaca "Linkedin Profile"
 
 <!-- badges -->
 [gmail_badge]: https://img.shields.io/badge/-marcello.lamonaca%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcello.lamonaca@gmail.com
