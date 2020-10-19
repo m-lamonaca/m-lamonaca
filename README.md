@@ -31,7 +31,6 @@ Hi, i'm an italian guy with an interest in programming & physics 🚀. I'm curre
 
 <!-- Java -->
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/java.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spring.svg" alt="spring" width="40" height="40"/>
 
 <!-- Front End -->
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" alt="html5" width="40" height="40"/>
@@ -41,7 +40,6 @@ Hi, i'm an italian guy with an interest in programming & physics 🚀. I'm curre
 
 <!-- PHP -->
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/php.svg" alt="php" width="40" height="40"/>
-<!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/laravel.svg" alt="laravel" width="40" height="40"/> -->
 
 <!-- DBs -->
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mongodb.svg" alt="mongodb" width="40" height="40"/>
