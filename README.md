@@ -42,7 +42,6 @@ Hi, i'm an italian guy with an interest in programming & physics 🚀. I'm curre
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/php.svg" alt="php" width="40" height="40"/>
 
 <!-- DBs -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mongodb.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftsqlserver.svg" alt="microsoftsqlserver" width="40" height="40"/>
 
 <!-- SCM -->
