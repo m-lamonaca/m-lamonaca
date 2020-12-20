@@ -1,20 +1,19 @@
-# m-lamonaca
- 
 <!-- **m-lamonaca/m-lamonaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # Hi 👋, I'm [Marcello Lamonaca][github_profile]
 
 Hi, i'm an italian guy with an interest in programming & physics 🚀. I'm currently studing at [ITS-ICT Piemonte](https://www.its-ictpiemonte.it/) to become a Beckend Developer.
 
-- I love videogames :space_invader: and reading 📚.
+- I love videogames 👾 and reading 📚.
 - I enjoy learning new stuff and making notes 📄.
 - I'm a self taught Pythonista 🐍 and Open Source enthusiast.
 
-## 📧 Contact me
+## 📧 Contacts  📧
 
 [![gmail_badge]](mailto:marcello.lamonaca@gmail.com) [![mail_badge]](mailto:marcello@lamonaca.eu) [![linkedin_badge]][linkedin]
 
-## 🔮 Tools, Technologies and Languages
+## 🔮 Tools, Technologies and Languages 🔮
+
 <p>
 <!-- Python -->
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="python" width="40" height="40"/>
@@ -29,6 +28,9 @@ Hi, i'm an italian guy with an interest in programming & physics 🚀. I'm curre
 <!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/xamarin.svg" alt="xamarin" width="40" height="40"/> -->
 <!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/unity.svg" alt="unity" width="40" height="40"/> -->
 
+<!-- PHP -->
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/php.svg" alt="php" width="40" height="40"/>
+
 <!-- Java -->
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/java.svg" alt="java" width="40" height="40"/>
 
@@ -36,10 +38,9 @@ Hi, i'm an italian guy with an interest in programming & physics 🚀. I'm curre
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" alt="javascript" width="40" height="40"/>
-<!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/node-dot-js.svg" alt="nodejs" width="40" height="40"/> -->
 
-<!-- PHP -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/php.svg" alt="php" width="40" height="40"/>
+<!-- Node.Js -->
+<!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/node-dot-js.svg" alt="nodejs" width="40" height="40"/> -->
 
 <!-- DBs -->
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftsqlserver.svg" alt="microsoftsqlserver" width="40" height="40"/>
@@ -65,7 +66,8 @@ Hi, i'm an italian guy with an interest in programming & physics 🚀. I'm curre
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" alt="discord" width="40" height="40"/>
 </p>
 
-## ✨GitHub Stats & Most Used Languages
+## ✨ GitHub Stats & Most Used Languages ✨
+
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ![github stats][github_stats]
 ![most used languages][top_languages]
