@@ -53,7 +53,8 @@ Hi, i'm an italian guy with an interest in programming & physics 🚀. I'm curre
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnubash.svg" alt="bash" width="40" height="40"/>
 
 <!-- Containers -->
-<!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg" alt="docker" width="40" height="40"/> -->
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg" alt="docker" width="40" height="40"/>
+<!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kubernetes.svg" alt="kubernetes" width="40" height="40"/> -->
 
 <!-- IDE/Editor -->
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg" alt="vscode" width="40" height="40"/>
