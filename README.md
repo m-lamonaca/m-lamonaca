@@ -1,13 +1,12 @@
-<!-- **m-lamonaca/m-lamonaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+1<!-- **m-lamonaca/m-lamonaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # Hi 👋, I'm [Marcello Lamonaca][github_profile]
 
-Hi, i'm an italian guy with an interest in programming & physics 🚀. I'm currently studying at [ITS-ICT Piemonte](https://www.its-ictpiemonte.it/) to become a Backend Developer.
+Hi, i'm an italian guy with an interest in programming & physics 🚀.
 
 - I love videogames 👾 and reading 📚.
 - I enjoy learning new stuff and making notes 📄.
-- I'm a self taught Pythonista 🐍 and Open Source enthusiast.
-- My strongest languages are `C#` and `Python`
+- My strongest languages are `C#` and `Python`.
 
 ## 📧 Contacts  📧
 
@@ -18,14 +17,14 @@ Hi, i'm an italian guy with an interest in programming & physics 🚀. I'm curre
 <p>
 <!-- Python -->
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anaconda.svg" alt="anaconda" width="40" height="40"/>
 <!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" alt="pandas" width="40" height="40"/> -->
 <!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flask.svg" alt="flask" width="40" height="40"/> -->
 <!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jupyter.svg" alt="jupyter" width="40" height="40"/> -->
 
 <!-- C# -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/csharp.svg" alt="csharp" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dotnet.svg" alt="dotnet" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/csharp.svg" alt="csharp" width="40" height="40"/>
+<!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/blazor.svg" alt="blazor" width="40" height="40"/> -->
 <!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/unity.svg" alt="unity" width="40" height="40"/> -->
 
 <!-- PHP -->
@@ -38,6 +37,8 @@ Hi, i'm an italian guy with an interest in programming & physics 🚀. I'm curre
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" alt="react" width="40" height="40"/>
+<!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" alt="svelte" width="40" height="40"/> -->
 
 <!-- DBs -->
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftsqlserver.svg" alt="microsoftsqlserver" width="40" height="40"/>
@@ -46,21 +47,11 @@ Hi, i'm an italian guy with an interest in programming & physics 🚀. I'm curre
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" alt="git" width="40" height="40"/>
 
 <!-- shell -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powershell.svg" alt="powershell" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnubash.svg" alt="bash" width="40" height="40"/>
+<!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powershell.svg" alt="powershell" width="40" height="40"/> -->
+<!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnubash.svg" alt="bash" width="40" height="40"/> -->
 
 <!-- Containers -->
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg" alt="docker" width="40" height="40"/>
-<!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kubernetes.svg" alt="kubernetes" width="40" height="40"/> -->
-
-<!-- IDE/Editor -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg" alt="vscode" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudio.svg" alt="visual studio" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pycharm.svg" alt="pycharm" width="40" height="40"/>
-
-<!-- Other Tools -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/notion.svg" alt="notion" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" alt="discord" width="40" height="40"/>
 </p>
 
 ## ✨ GitHub Stats & Most Used Languages ✨
