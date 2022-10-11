@@ -1,4 +1,4 @@
-1<!-- **m-lamonaca/m-lamonaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- **m-lamonaca/m-lamonaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # Hi 👋, I'm [Marcello Lamonaca][github_profile]
 
@@ -33,16 +33,16 @@ Hi, i'm an italian programmer living near Turin.
 
 <!-- DBs -->
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mongodb.svg" alt="mongodb" width="40" height="40"/>
+  
+<!-- Containers -->
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg" alt="docker" width="40" height="40"/>
 
 <!-- SCM -->
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" alt="git" width="40" height="40"/>
 
 <!-- shell -->
-<!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powershell.svg" alt="powershell" width="40" height="40"/> -->
-<!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnubash.svg" alt="bash" width="40" height="40"/> -->
-
-<!-- Containers -->
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg" alt="docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powershell.svg" alt="powershell" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnubash.svg" alt="bash" width="40" height="40"/>
 
 <!--OS-->
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/windows.svg" alt="windows" width="40" height="40"/>
