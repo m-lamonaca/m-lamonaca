@@ -49,7 +49,7 @@ Hi, i'm an italian programmer living near Turin.
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg" alt="linux" width="40" height="40"/>
 </p>
 
-## ✨ GitHub Stats & Most Used Languages ✨
+## 📊 Stats 📊
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ![metrics][metrics]
@@ -66,4 +66,4 @@ Hi, i'm an italian programmer living near Turin.
 <!-- meta -->
 [github_stats]: https://github-readme-stats.vercel.app/api?username=m-lamonaca&show_icons=true "User Statistics"
 [top_languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=m-lamonaca&layout=compact "Most Used Languages"
-[metrics]: https://metrics.lecoq.io/m-lamonaca?template=classic&languages=1&followup=1&discussions=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=10&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.details=percentage%2C%20lines&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&discussions=false&discussions.categories=true&discussions.categories.limit=0&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FRome
+[metrics]: https://metrics.lecoq.io/m-lamonaca?languages=1&followup=1&discussions=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=10&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.details=percentage%2C%20lines&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&discussions=false&discussions.categories=true&discussions.categories.limit=0&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FRome
