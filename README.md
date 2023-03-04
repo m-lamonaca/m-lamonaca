@@ -4,9 +4,6 @@
 
 Hi, i'm an italian programmer living near Turin.
 
-- I love videogames 👾, reading 📚 and physics 🚀.
-- My strongest languages are `C#` and `Python`.
-
 ## 📧 Contacts  📧
 
 [![gmail_badge]](mailto:marcello.lamonaca@gmail.com) [![mail_badge]](mailto:marcello@lamonaca.eu) [![linkedin_badge]][linkedin]
@@ -52,7 +49,7 @@ Hi, i'm an italian programmer living near Turin.
 ## 📊 Stats 📊
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-![metrics][metrics]
+<!-- [metrics][metrics] -->
 
 <!-- profile links -->
 [github_profile]: https://github.com/m-lamonaca "Github Profile"
