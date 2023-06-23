@@ -48,4 +48,3 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
           plugin_repositories_pinned: 3
-          plugin_repositories_starred: 3
